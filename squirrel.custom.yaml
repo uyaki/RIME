@@ -1,0 +1,7 @@
+# Squirrel settings
+# encoding: utf-8
+patch:
+  show_notifications_when: appropriate          # 状态通知，适当，也可设为全开（always）全关（never）
+  style:
+    color_scheme: mojave_dark
+    color_scheme_dark: google
